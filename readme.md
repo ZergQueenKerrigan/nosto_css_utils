@@ -1,4 +1,4 @@
-![NSG CSS Utilities](https://i.ibb.co/Q9v3kf1/nsg-utils.png)
+![NSG CSS Utilities](https://i.ibb.co/ZJJMgPS/nsg-utils.jpg)
 
 # NOSTO GLOBAL CSS Utilities
 
