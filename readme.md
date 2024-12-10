@@ -2,7 +2,7 @@
 
 # NOSTO GLOBAL CSS Utilities
 
-A comprehensive CSS utility library for rapid web development, built using CSS Bricks methodology and inspired by SCSS @extend patterns.
+A comprehensive CSS utility library for rapid web development, built using Atomic CSS methodology and inspired by SCSS @extend patterns.
 
 ## Features
 
