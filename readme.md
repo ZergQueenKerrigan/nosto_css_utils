@@ -17,7 +17,7 @@ A comprehensive CSS utility library for rapid web development, built using Atomi
 
 ## Architecture
 
-- Follows CSS Bricks methodology for small, reusable utility classes
+- Follows Atomic CSS for reusable utility classes
 - Inspired by SCSS @extend patterns for clean CSS organization
 - Uses REM units with consistent scale factor for responsive design
   - All measurements scale proportionally with root font size
