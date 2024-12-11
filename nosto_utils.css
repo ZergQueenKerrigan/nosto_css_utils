@@ -10,11 +10,21 @@
   /* ---------------- */
   /* ----FONT SIZE----*/
   /* -----------------*/
-  --nsg-font-size-1: calc(var(--nsg-base-size) * var(--nsg-scale));
+
+/* Responsive Font Formal */
+  /* --nsg-font-size-1: calc(var(--nsg-base-size) * var(--nsg-scale));
   --nsg-font-size-2: calc(var(--nsg-font-size-1) * var(--nsg-scale));
   --nsg-font-size-3: calc(var(--nsg-font-size-2) * var(--nsg-scale));
   --nsg-font-size-4: calc(var(--nsg-font-size-3) * var(--nsg-scale));
-  --nsg-font-size-5: calc(var(--nsg-font-size-4) * var(--nsg-scale));
+  --nsg-font-size-5: calc(var(--nsg-font-size-4) * var(--nsg-scale));  */
+
+
+  /* FONT-SIZE */
+  --ngs-font-size-5: 1rem;
+  --ngs-font-size-4: 0.9rem;
+  --ngs-font-size-3: 0.75rem;
+  --ngs-font-size-2: 0.5rem;
+  --ngs-font-size-1: 0.25rem;
 
   /* -------------------- */
   /* ----FONT WEIGHT------*/
